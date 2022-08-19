@@ -44,8 +44,7 @@ public class laClaseMuestra implements InterfGuia {
     }
 
     @Override
-    public int sumar(int a, int b
-    ) {
+    public int sumar(int a, int b) {
         return a + b;
     }
 }
